@@ -1,7 +1,6 @@
 ### Hi there 👋 my is Ruben Martins! Welcome to My Git-Hub Profile!😄
 
-
-### - 🔭 This repository is basically for personal projects and college , feel free to take e look 😄
+### 🔭 This repository is basically for personal projects and college , feel free to take e look 😄
 <!--
 **Rubenm83/Rubenm83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +21,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rubenm83&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenm83&layout=compact&langs_count=7"/>
 </div>
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
