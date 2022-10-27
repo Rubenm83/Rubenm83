@@ -1,6 +1,6 @@
 ### Hi there 👋 my is Ruben Martins! Welcome to My Git-Hub Profile!😄
 
-### 🔭 This repository is basically for personal projects and college , feel free to take e look 😄
+### 🔭 This repository is basically for personal projects and college , feel free to take a look 😄
 <!--
 **Rubenm83/Rubenm83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
