@@ -1,4 +1,4 @@
-### Hi there 👋 my is Ruben Martins! Welcome to My Git-Hub Profile!😄
+### Hi there 👋 my is Ruben Martins! Welcome to My GitHub Profile!😄
 
 ### 🔭 This repository is basically for personal projects and college , feel free to take a look 😄
 <!--
@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <h1>Some of my Stats ⚡</h1>
+  <p>It ain't much but it's honest work</p>
+</div>
+
+
 
 <div align="center">
   <a href="https://github.com/Rubenm83">
