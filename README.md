@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  ### Hi there 👋 my is Ruben Martins! Welcome to My GitHub Profile!😄
-  ### 🔭 This repository is basically for personal projects and college , feel free to take a look 😄 
-  <h1>Some of my Stats ⚡</h1>
-  <p>It ain't much but it's honest work</p>
+   <h1>Hi there 👋 my is Ruben Martins! Welcome to My GitHub Profile!😄</h1>
+   <h2>🔭 This repository is basically for personal projects and college , feel free to take a look 👀 </h2>
+   <h3>Some of my Stats ⚡</h3>
+   <p>It ain't much but it's honest work 😅</p>
 </div>
 
 
